@@ -3,6 +3,11 @@
 
 This project provides detailed explanations and mathematical derivations of common time and space complexities encountered in algorithms, all presented using **Streamlit** for a dynamic and interactive user experience.
 
+![Screenshot 1](Screenshots/1.png)
+![Screenshot 2](Screenshots/2.png)
+![Screenshot 3](Screenshots/3.png)
+![Screenshot 4](Screenshots/4.png)
+
 ## 🧠 Overview
 
 Understanding the time and space complexity of algorithms is crucial for analyzing their efficiency. This project walks through the derivation of various complexities including constant, linear, quadratic, logarithmic, exponential, and factorial, and provides Python code examples for each case.
