@@ -1,5 +1,5 @@
 
-# Mathematical Derivations of Time and Space Complexity
+# Mathematical Derivations and Visualization of Time and Space Complexity
 
 This project provides detailed explanations and mathematical derivations of common time and space complexities encountered in algorithms, all presented using **Streamlit** for a dynamic and interactive user experience.
 
